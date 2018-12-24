@@ -4,7 +4,7 @@
 def parrot(phrase = "Squawk")
 parrot = "#{phrase}!"
 puts parrot
-parrot
+return parrot
 end
 
 parrot()
