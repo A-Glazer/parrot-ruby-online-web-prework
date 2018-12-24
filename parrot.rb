@@ -7,4 +7,5 @@ puts parrot
 return parrot
 end
 
-parrot()
+puts parrot()
+return parrot()
