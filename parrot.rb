@@ -8,4 +8,3 @@ return parrot
 end
 
 puts parrot()
-return parrot()
